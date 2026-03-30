@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Dark background -->
+  <rect width="32" height="32" rx="6" fill="#1a1812"/>
+
+  <!-- Fork (left side) -->
+  <line x1="9.5" y1="23" x2="9.5" y2="14" stroke="#D4AF37" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="6.5" y1="14" x2="6.5" y2="9"  stroke="#D4AF37" stroke-width="1.4" stroke-linecap="round"/>
+  <line x1="9.5" y1="14" x2="9.5" y2="9"  stroke="#D4AF37" stroke-width="1.4" stroke-linecap="round"/>
+  <line x1="12.5" y1="14" x2="12.5" y2="9"  stroke="#D4AF37" stroke-width="1.4" stroke-linecap="round"/>
+
+  <!-- Crescent moon (right side) -->
+  <path d="M18.5 9 A 7 7 0 0 1 18.5 23 A 9 9 0 0 0 18.5 9" 
+        fill="none" stroke="#D4AF37" stroke-width="1.4" stroke-linecap="round"/>
+</svg>
